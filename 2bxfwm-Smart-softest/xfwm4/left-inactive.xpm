@@ -1,9 +1,9 @@
 /* XPM */
-static char *left_active[] = {
+static char *left_inactive[] = {
 /* columns rows colors chars-per-pixel */
 "10 10 3 1 ",
-"  c #2F343F s active_shadow_1",
-". c #A3BE8C s active_color_1",
+"  c #2F343F s inactive_shadow_1",
+". c #A3BE8C s inactive_color_1",
 "X c #AAFFAA",
 /* pixels */
 "        ..",
